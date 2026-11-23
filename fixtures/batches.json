@@ -38,5 +38,15 @@
     "min_observed": -19.5,
     "max_observed": -19.3,
     "sealed_at": "2026-11-10T10:00:00"
+  },
+  {
+    "batch_code": "TB-CK-HD-01-003",
+    "chamber_code": "CK-HD-01",
+    "probe_code": "PR-HD-A1",
+    "cargo_ref": "显影货载 E-07",
+    "status": "超温处理中",
+    "temp_points": [{"t": "14:00", "c": -17.2}, {"t": "15:00", "c": -15.2}, {"t": "16:00", "c": -15.8}],
+    "min_observed": -17.2,
+    "max_observed": -15.2
   }
 ]

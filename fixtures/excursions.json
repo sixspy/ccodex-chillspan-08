@@ -17,5 +17,14 @@
     "opened_at": "2026-11-17T09:00:00",
     "closed_at": "2026-11-17T11:30:00",
     "note": "已复核恢复正常"
+  },
+  {
+    "batch_code": "TB-CK-HD-01-003",
+    "cursor_key": "EX-TB-CK-HD-01-003-1",
+    "peak_temp": -15.2,
+    "threshold": -16.0,
+    "status": "开放",
+    "opened_at": "2026-11-23T16:10:00",
+    "note": "装卸区回温未落，禁抹平"
   }
 ]
